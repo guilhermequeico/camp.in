@@ -1,0 +1,15 @@
+:root {
+    --text-base: #AFB6C2;
+    --text-title: #D4CCB6;
+    --background: #191816;
+    --form-background: #24221F;
+    --primaty-color: #FFC632;
+
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    background-color: var(--background);
+}

@@ -10,6 +10,6 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    /* font-family: 'Roboto', sans-serif; */
+    color: var(--text-base);
     background-color: var(--background);
 }

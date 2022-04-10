@@ -1,0 +1,24 @@
+.main-title {
+    margin-top: 3rem;
+    margin-bottom: 2.7rem;
+}
+
+.title__login {
+    display: flex;
+    align-items: center;
+    margin-bottom: .5rem;
+
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: var(--text-title);
+}
+
+.title__login img {
+    padding-right: 1rem;
+}
+
+.title__description {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 500;
+}

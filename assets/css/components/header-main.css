@@ -1,0 +1,10 @@
+.header-main {
+    height: 2.8rem;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.header-main__logo {
+    width: 11.5rem;
+    height: 2.8rem;
+}

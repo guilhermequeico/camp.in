@@ -1,0 +1,7 @@
+.input-group input[type=email] {
+    background-image: url(../../img/mail.svg);
+}
+
+.input-group input[type=email]:focus {
+    background-image: url(../../img/mail-focus.svg);
+}

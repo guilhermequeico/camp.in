@@ -1,10 +1,13 @@
 :root {
     --text-base: #AFB6C2;
+    --text-base--light: #A9AFB9;
     --text-title: #D4CCB6;
     --background: #191816;
     --form-background: #24221F;
-    --primary-color: #FFC632;
+    --primary-color: #FFC632;  
+}
 
+html {
     font-size: 62.5%;
 }
 

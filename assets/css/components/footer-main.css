@@ -1,17 +1,18 @@
-.main-footer {
+.footer-main {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 2.1rem;
     font-size: 1.4rem;
     color: var(--primary-color);
 }
 
-.main-footer p {
+.footer-main p {
     margin-right: .4rem;
     font-weight: 400;
 }
 
-.main-footer a {
+.footer-main a {
     font-weight: 600;
     text-decoration: none;
     color: var(--primary-color);

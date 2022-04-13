@@ -15,50 +15,45 @@
         <link rel="stylesheet" href="./assets/css/reset.css">
         <link rel="stylesheet" href="./assets/css/base.css">
         <link rel="stylesheet" href="./assets/css/container.css">
-        <link rel="stylesheet" href="./assets/css/components/main-header.css">
+        <link rel="stylesheet" href="./assets/css/components/header-main.css">
         <link rel="stylesheet" href="./assets/css/components/main-title.css">
         <link rel="stylesheet" href="./assets/css/components/input-group.css">
-        <link rel="stylesheet" href="./assets/css/components/main-footer.css">
+        <link rel="stylesheet" href="./assets/css/components/input-group--email.css">
+        <link rel="stylesheet" href="./assets/css/components/input-group--password.css">
+        <link rel="stylesheet" href="./assets/css/components/input-group--remember.css">
+        <link rel="stylesheet" href="./assets/css/components/form-btn.css">
+        <link rel="stylesheet" href="./assets/css/components/footer-main.css">
     </head>
     <body>
         <div class="container">
-            <header class="main-header">
-                <img class="logo" src="./assets/img/logo.svg" alt="Logo Camp.in">
+            <header class="header-main">
+                <img class="header-main__logo" src="./assets/img/logo.svg" alt="Logo Camp.in">
             </header>
-
             <main>
                 <div class="main-title">
-                    <h1 class="title__login">Faça seu login</h1>
-                    <p class="title__description">Entre com suas informações de cadastro.</p>
+                    <h1 class="main-title__title">Faça seu login</h1>
+                    <p class="main-title__description">Entre com suas informações de cadastro.</p>
                 </div>
-
-                <div class="form">
-                    <form action="">
-                        <div class="input-group">
-                            <label for="email">E-mail</label>
-                            <input type="email" id="email" name="email" placeholder="Digite seu e-mail">     
-                        </div>
-                        <div class="input-group input-group--password">
-                            <label for="password">Senha</label>
-                            <input type="password" id="password" name="password" placeholder="Digite sua senha"> 
-                            <a class="input-group__eye" href="#">
-                                <img src="./assets/img/eye.svg" alt="Mostrar senha">
-                            </a>
-                        </div>
-                        <div class="input-group">
-                            <div class="input-group--remember">
-                                <input type="checkbox" id="remember-me" name="remember-me">
-                                <label for="remember-me">Lembre-me</label>
-                            </div>
-                            <a href="#">Esqueci minha senha</a>
-                        </div>
-
-                        <button class="form-btn" type="submit">Entrar</button>
-                    </form>
-                </div>
+               <form action="">
+                   <div class="input-group">
+                       <label for="email">E-mail</label>
+                       <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
+                   </div>
+                   <div class="input-group">
+                       <label for="password">Senha</label>
+                       <input type="password" id="password" name="passoword" placeholder="Digite sua senha">
+                   </div>
+                   <div class="input-group">
+                       <div class="input-group--remember">
+                           <input type="checkbox" id="remember-me" name="remember-me">
+                           <label for="remember-me">Lembre-me</label>
+                       </div>
+                       <a href="#">Esqueci minha senha</a>
+                   </div>
+                   <button class="form-btn" type="submit">Entrar</button>
+               </form>
             </main>
-
-            <footer class="main-footer">
+            <footer class="footer-main">
                 <p>Não tem uma conta?</p>
                 <a href="#">Registre-se</a>
             </footer>

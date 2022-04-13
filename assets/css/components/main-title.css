@@ -1,26 +1,21 @@
 .main-title {
-    margin-top: 3rem;
     margin-bottom: 2.7rem;
 }
 
-.title__login {
+.main-title__title {
     margin-bottom: .5rem;
     padding-left: 3.4rem;
-    background-image: url(../../img/log-in.svg);
-    background-repeat: no-repeat;
-    background-size: 2.4rem 2.4rem;
-    background-position-y: 50%;
     font-size: 2.4rem;
     font-weight: 600;
     color: var(--text-title);
+    background-image: url(../../img/log-in.svg);
+    background-repeat: no-repeat;
+    background-position-y: 50%;
 }
 
-.title__login img {
-    padding-right: 1rem;
-}
-
-.title__description {
+.main-title__description {
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
     font-weight: 500;
+    line-height: 2.3rem;
 }

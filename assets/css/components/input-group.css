@@ -4,6 +4,10 @@
     margin-bottom: 2rem;
 }
 
+.input-group--password {
+    position: relative;
+}
+
 .input-group:nth-child(3) {
     flex-direction: row;
     justify-content: space-between;
@@ -40,6 +44,12 @@
     background-image: url(../../img/lock.svg);
 }
 
+.input-group--password a {
+    position: absolute;
+    right: 1.2rem;
+    top: 42px;
+}
+
 .input-group input::placeholder {
     font-family: 'Roboto', sans-serif;
     font-size: 1.4rem;
@@ -70,7 +80,7 @@
     font-size: 1.6rem;
     font-weight: 400;
     color: #A9AFB9;
-
+ 
 }
 
 .input-group a {
@@ -112,3 +122,4 @@
     border: none;
     border-radius: .4rem;
 }
+

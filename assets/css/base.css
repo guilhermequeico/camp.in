@@ -29,4 +29,12 @@ main {
         flex-direction: column;
         justify-content: center;
     }
+
+    main {
+        box-sizing: content-box;
+        width: 572px;
+        padding: 5.45rem 11.85rem;
+        background-color: var(--form-background);
+        border-radius: .4rem;
+    }
 }

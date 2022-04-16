@@ -2,3 +2,9 @@
     padding-left: 2rem;
     padding-right: 2rem;
 }
+
+@media (min-width: 1440px) {
+    .container {
+        padding-right: 0;
+    }
+}

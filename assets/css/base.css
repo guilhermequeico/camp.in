@@ -23,13 +23,6 @@ main {
 }
 
 @media (min-width: 612px) {
-    .content {
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    }
-
     main {
         box-sizing: content-box;
         width: 572px;

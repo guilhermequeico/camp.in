@@ -1,0 +1,15 @@
+@media (min-width: 612px) {
+    .content {
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 1440px) {
+    .content {
+        flex-direction: row;
+        align-items: center;
+    }
+}

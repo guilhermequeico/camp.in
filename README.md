@@ -5,13 +5,13 @@
 <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>
 <p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=FFC632&labelColor=191816" alt="PRs welcome!" />
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=FFC632&labelColor=191816" alt="PRs welcome!">
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFC632&labelColor=191816">
   
@@ -22,45 +22,34 @@
 
 <br>
 
-## 💻 Web
 <p align="center">
-  <img alt="Camp.in web" src=".github/web-camp.in.png" width="">
-</p>
-
-## 📱 Mobile
-<p align="center">
-  <img alt="Camp.in mobile" src=".github/mobile-camp.in.png" width="">
+  <img alt="Camp.in" src=".github/screen.png">
 </p>
 
 ## 🧪 Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
 
-## :building_construction: Projeto
+## 💻 Projeto
+Neste projeto desenvolvi apenas o Front End de um formulário de login responsivo.
 
-Neste projeto desenvolvi uma página para captação de leads ou newsletter. Projeto acessível tanto para versão web e mobile.
-
-## 🧐 Demo
-
+## 🔎 Preview
 Quer dar uma olhadinha como ficou o projeto?
 
 Acesse: [Camp.in](https://guilhermequeico.github.io/camp.in/)
 
 ## 🚀 Como executar
-
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone https://github.com/guilhermequeico/camp.in.git
 $ cd camp.in
 ```
-Agora é só abrir o arquivo <i>index.html</i> em seu navegador de preferência.
+Agora é só abrir o arquivo <i>index.html</i> em seu navegador favorito.
 
-## :memo: Licença
-
+## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---

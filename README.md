@@ -38,7 +38,7 @@ Neste projeto desenvolvi apenas o Front End de um formulário de login responsiv
 ## 🔎 Preview
 Quer dar uma olhadinha como ficou o projeto?
 
-Acesse: [Camp.in](https://guilhermequeico.github.io/camp.in/)
+Acesse: [camp.in](https://guilhermequeico.github.io/camp.in/)
 
 ## 🚀 Como executar
 Clone o projeto e acesse a pasta do mesmo.
